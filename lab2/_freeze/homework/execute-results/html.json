@@ -1,0 +1,12 @@
+{
+  "hash": "f4895253ee667094ee30980f0f2c4261",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      \n  output: true    \n  warning: false  \n  error: false    \njupyter: python3\n---\n\n\n\n\n\n# Homework-1\n\n\n\n\n{{< embed \"homework/homework 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-2\n\n\n\n\n{{< embed \"homework/homework 2(pet names).ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-3-1\n\n\n\n\n{{< embed \"homework/homework 3.1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-3-2\n\n\n\n\n{{< embed \"homework/homework 3.2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-4\n\n\n\n\n{{< embed \"homework/homework 4.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Homework-5\n\n\n\n\n{{< embed \"homework/homework 5/Zhang Yuan(homework 5).ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "homework_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

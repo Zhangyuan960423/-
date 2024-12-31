@@ -1,0 +1,43 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+
+# practice1
+{{< embed "labs/Practice/practice 1/practice 1.ipynb" echo=true >}}
+
+# practice2
+{{< embed "labs/Practice/practice 2/practical2.ipynb" echo=true >}}
+
+# practice3-1
+{{< embed "labs/Practice/practice 3/practice_3-1.ipynb" echo=true >}}
+
+# practice3-2
+{{< embed "labs/Practice/practice 3/practice_3-2.ipynb" echo=true >}}
+
+# practice3-3
+{{< embed "labs/Practice/practice 3/practice_3-3.ipynb" echo=true >}}
+
+# practice4
+{{< embed "labs/Practice/practice 4/4.IMDb_and_Douban_top-250_movie_datasets.ipynb" echo=true >}}
+
+# practical 2（11.14)
+{{< embed "labs/Practice/practical 2（11.14).ipynb" echo=true >}}
+
+# practical 3
+{{< embed "labs/Practice/practical 3.ipynb" echo=true >}}

@@ -1,0 +1,12 @@
+{
+  "hash": "d9ee1f093c286516cb90764335cc7a37",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      \n  output: true    \n  warning: false  \n  error: false    \njupyter: python3\n---\n\n\n\n\n\n\n# 03 chipotle Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/03 chipotle Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 03 scores Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/03 scores Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Chipotle 1\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-Chipotle 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Chipotle 2\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-Chipotle 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-chipotle 3\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-chipotle 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Euro12 2\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-Euro12 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Occupation 1\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-Occupation 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-Scores 3\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-Scores 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Exercises-World Food Facts 1\n\n\n\n\n{{< embed \"labs/Labexercises/Exercises-World Food Facts 1.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "labs_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

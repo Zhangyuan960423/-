@@ -1,0 +1,36 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      
+  output: true    
+  warning: false  
+  error: false    
+jupyter: python3
+---
+
+# Homework-1
+{{< embed "homework/homework 1.ipynb" echo=true >}}
+
+# Homework-2
+{{< embed "homework/homework 2(pet names).ipynb" echo=true >}}
+
+# Homework-3-1
+{{< embed "homework/homework 3.1.ipynb" echo=true >}}
+
+# Homework-3-2
+{{< embed "homework/homework 3.2.ipynb" echo=true >}}
+
+# Homework-4
+{{< embed "homework/homework 4.ipynb" echo=true >}}
+
+# Homework-5
+{{< embed "homework/homework 5/Zhang Yuan(homework 5).ipynb" echo=true >}}

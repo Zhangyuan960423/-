@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+::: {.content-block .about-section}
+# Hi, I'm Zhang Yuan!
+
+![](images/profile.jpg)
+
+My name is Zhang Yuan and I am a member of Asian Musicians Association and Handan Musicians Association. Currently, I am pursuing a postgraduate degree in Educational Management at a university in Belarus.
+:::
+
+
+::: {.content-block}
+## Music & Arts
+My undergraduate studies were completed at the Sichuan Conservatory of Music, majoring in Music Performance with a specific focus on Popular Music Performance and Education. During my four years at the Sichuan Conservatory of Music, I not only achieved excellent academic results, but also actively participated in various activities, won the NationalScholarship, Sichuan Outstanding Graduates and other honours, and won more than 20 prizes in various competitions at school level and above. In addition, I also served as the president of the Student Union, organised and assisted many performances and competitions, and accumulated rich experience in organisation.
+:::
+
+
+::: {.content-block}
+## Work Experience
+
+In my career, I worked for Netease for a period of time, and then transitioned to a full-time teaching role and student management in universities. In teaching, I am responsible for teaching pop singing, pop music history and styles, basic music theory, and pop harmony basics. With my enthusiasm and professionalism in teaching, I have accumulated considerable teaching experience. During my work, I also won the relevant certificates issued by the state.
+:::
+
+
+::: {.content-block}
+## My hobbies
+
+1. Horseback riding provides a deep connection with nature and animals. On horseback, one can feel the gentle caress of the wind, the softness of the grass and the steady pace of the horse. The experience is both exciting and peaceful, and the grasslands of Inner Mongolia and northern Zhangjiakou in China are especially recommended.
+2. Skiing is an exciting and challenging sport, which is my favourite sport in winter, and I am still in the beginner stage, I can only ski on two skis.
+3. Hiking is a simple and effective way to explore nature. Put on your backpack and embark on a journey to explore nature. In the process of hiking, we can enjoy the beautiful natural scenery given to us by nature.
+4. Drama is a comprehensive art that combines literature, performance, music, dance and other art forms. Drama works usually cover rich cultural connotations and profound social significance. In the process of watching drama, girls can learn about the stories and characters in different cultural backgrounds, broaden their horizons and knowledge, and at the same time, they can also draw positive energy and inspiration from it, and feel the unique charm of art.
+5. Piecing together Lego is also a good way to reduce pressure. After busy work or study, you can calm down to put together Lego and enjoy this focused and relaxed state. Through constant splicing and combining, they can forget their worries and pressure and find inner peace and satisfaction.
+:::
